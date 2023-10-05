@@ -20,8 +20,13 @@ Apaixonado pelo universo da programação, atualmente estou focado em aprimorar 
 * CSS
 * JAVASCRIPT
 * JAVA
-* PHP
-* MYSQL
+* JDBC 
+* Git / Github
+* Spring Boot
+* JPA / Hibernate
+* Maven
+* Spring Data JPA
+* Spring Data MongoDB 
 
 ## 📫 Contatos
 
