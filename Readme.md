@@ -2,7 +2,7 @@
 
 <img align="right" src="img/java.png" width="300"/>
 
-Me chamo Henrique Cabral, tenho 20 anos, moro em Uberlândia-MG, curso atualmente bacharelado em Sistemas de Informação, atualmente estou em busca de um cargo de desenvolvedor **Backend Junior**.
+Me chamo Henrique Cabral, tenho 20 anos, moro em Uberlândia-MG, curso atualmente bacharelado em Sistemas de Informação, estou em busca de um cargo de desenvolvedor **Backend Junior**.
 
 Apaixonado pelo universo da programação, atualmente estou focado em aprimorar meus conhecimentos na área de __backend__ com *Java* e *Spring Boot*. Um dos motivos pelos quais escolhi o ramo da programação é a oportunidade de criar projetos que possam beneficiar a vida das pessoas por meio da tecnologia.
 
