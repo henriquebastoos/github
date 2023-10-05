@@ -26,4 +26,6 @@ Apaixonado pelo universo da programação, atualmente estou focado em aprimorar 
 ## 📫 Contatos
 
 [Instagram](https://www.instagram.com/henrique_bastoos/?igshid=MzRlODBiNWFlZA%3D%3D)
-[Linkedin](https://www.linkedin.com/in/henrique-bastos-32a427239/)
+  
+  <a href="https://www.linkedin.com/in/henrique-bastos-32a427239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+
