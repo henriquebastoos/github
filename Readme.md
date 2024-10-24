@@ -30,7 +30,7 @@ Apaixonado pelo universo da programação, atualmente estou focado em aprimorar 
 
 ## 📫 Contatos
 
-  <a href="https://www.instagram.com/henrique_bastoos/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/henriquebastoos_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/henrique-bastos-32a427239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 
