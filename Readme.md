@@ -2,9 +2,15 @@
 
 <img align="right" src="img/java.png" width="300"/>
 
-Me chamo Henrique Cabral, tenho 20 anos, moro em Uberlândia-MG, curso atualmente bacharelado em Sistemas de Informação, estou em busca de um cargo de desenvolvedor **Backend Junior**.
+Meu nome é Henrique Bastos, tenho 21 anos e sou bacharel em Sistemas de Informação. 
 
-Apaixonado pelo universo da programação, atualmente estou focado em aprimorar meus conhecimentos na área de __backend__ com *Java* e *Spring Boot*. Um dos motivos pelos quais escolhi o ramo da programação é a oportunidade de criar projetos que possam beneficiar a vida das pessoas por meio da tecnologia.
+Tenho conhecimento nas principais tecnologias para desenvolvimento, incluindo Java, Python, React.js, JavaScript, Node.js, Ecossistema Aws, SQL, Automação e Metodologias Ágeis. 
+
+Desde cedo, sou apaixonado por tecnologia. Sempre acreditei no potencial de transformar ideias em soluções que impactem positivamente a sociedade, seja por meio de simples algoritmos ou sistemas complexos. Foi essa visão que me levou a mergulhar de cabeça nesse universo fascinante. 
+
+Valorizo a comunicação direta e honesta, entendendo que problemas não são apenas desafios técnicos, mas dificuldades reais enfrentadas por pessoas. Meu objetivo é buscar soluções inovadoras e eficazes que melhorem vidas, utilizando a tecnologia como ferramenta para criar um futuro melhor. 
+
+Se você compartilha desse propósito, vamos nos conectar! 🚀
 
 ### ✨ Curiosidades
 
